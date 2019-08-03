@@ -1,0 +1,458 @@
+   Player_Details,Weight,Age,Salary
+Avery Bradley Boston Celtics Texas PG,180,25,7730337
+Jae Crowder Boston Celtics Marquette SF,235,25,6796117
+John Holland Boston Celtics Boston University SG,205,27,70000
+R.J. Hunter Boston Celtics Georgia State SG,185,22,1148640
+Jonas Jerebko Boston Celtics  PF,231,29,5000000
+Amir Johnson Boston Celtics  PF,240,29,12000000
+Jordan Mickey Boston Celtics LSU PF,235,21,1170960
+Kelly Olynyk Boston Celtics Gonzaga C,238,25,2165160
+Terry Rozier Boston Celtics Louisville PG,190,22,1824360
+Marcus Smart Boston Celtics Oklahoma State PG,220,22,3431040
+Jared Sullinger Boston Celtics Ohio State C,260,24,2569260
+Isaiah Thomas Boston Celtics Washington PG,185,27,6912869
+Evan Turner Boston Celtics Ohio State SG,220,27,3425510
+James Young Boston Celtics Kentucky SG,215,20,1749840
+Tyler Zeller Boston Celtics North Carolina C,253,26,2616975
+Bojan Bogdanovic Brooklyn Nets  SG,216,27,3425510
+Markel Brown Brooklyn Nets Oklahoma State SG,190,24,845059
+Wayne Ellington Brooklyn Nets North Carolina SG,200,28,1500000
+Rondae Hollis-Jefferson Brooklyn Nets Arizona SG,220,21,1335480
+Jarrett Jack Brooklyn Nets Georgia Tech PG,200,32,6300000
+Sergey Karasev Brooklyn Nets  SG,208,22,1599840
+Sean Kilpatrick Brooklyn Nets Cincinnati SG,219,26,134215
+Shane Larkin Brooklyn Nets Miami (FL) PG,175,23,1500000
+Brook Lopez Brooklyn Nets Stanford C,275,28,19689000
+Chris McCullough Brooklyn Nets Syracuse PF,200,21,1140240
+Willie Reed Brooklyn Nets Saint Louis PF,220,26,947276
+Thomas Robinson Brooklyn Nets Kansas PF,237,25,981348
+Henry Sims Brooklyn Nets Georgetown C,248,26,947276
+Donald Sloan Brooklyn Nets Texas A&M PG,205,28,947276
+Thaddeus Young Brooklyn Nets Georgia Tech PF,221,27,11235955
+Arron Afflalo New York Knicks UCLA SG,210,30,8000000
+Lou Amundson New York Knicks UNLV PF,220,33,1635476
+Thanasis Antetokounmpo New York Knicks  SF,205,23,30888
+Carmelo Anthony New York Knicks Syracuse SF,240,32,22875000
+Jose Calderon New York Knicks  PG,200,34,7402812
+Cleanthony Early New York Knicks Wichita State SF,210,25,845059
+Langston Galloway New York Knicks Saint Joseph's SG,200,24,845059
+Jerian Grant New York Knicks Notre Dame PG,195,23,1572360
+Robin Lopez New York Knicks Stanford C,255,28,12650000
+Kyle O'Quinn New York Knicks Norfolk State PF,250,26,3750000
+Kristaps Porzingis New York Knicks  PF,240,20,4131720
+Kevin Seraphin New York Knicks  C,278,26,2814000
+Lance Thomas New York Knicks Duke SF,235,28,1636842
+Sasha Vujacic New York Knicks  SG,195,32,947276
+Derrick Williams New York Knicks Arizona PF,240,25,4000000
+Tony Wroten New York Knicks Washington SG,205,23,167406
+Elton Brand Philadelphia 76ers Duke PF,254,37,
+Isaiah Canaan Philadelphia 76ers Murray State PG,201,25,947276
+Robert Covington Philadelphia 76ers Tennessee State SF,215,25,1000000
+Joel Embiid Philadelphia 76ers Kansas C,250,22,4626960
+Jerami Grant Philadelphia 76ers Syracuse SF,210,22,845059
+Richaun Holmes Philadelphia 76ers Bowling Green PF,245,22,1074169
+Carl Landry Philadelphia 76ers Purdue PF,248,32,6500000
+Kendall Marshall Philadelphia 76ers North Carolina PG,200,24,2144772
+T.J. McConnell Philadelphia 76ers Arizona PG,200,24,525093
+Nerlens Noel Philadelphia 76ers Kentucky PF,228,22,3457800
+Jahlil Okafor Philadelphia 76ers Duke C,275,20,4582680
+Ish Smith Philadelphia 76ers Wake Forest PG,175,27,947276
+Nik Stauskas Philadelphia 76ers Michigan SG,205,22,2869440
+Hollis Thompson Philadelphia 76ers Georgetown SG,206,25,947276
+Christian Wood Philadelphia 76ers UNLV PF,220,20,525093
+Bismack Biyombo Toronto Raptors  C,245,23,2814000
+Bruno Caboclo Toronto Raptors  SF,205,20,1524000
+DeMarre Carroll Toronto Raptors Missouri SF,212,29,13600000
+DeMar DeRozan Toronto Raptors USC SG,220,26,10050000
+James Johnson Toronto Raptors Wake Forest PF,250,29,2500000
+Cory Joseph Toronto Raptors Texas PG,190,24,7000000
+Kyle Lowry Toronto Raptors Villanova PG,205,30,12000000
+Lucas Nogueira Toronto Raptors  C,220,23,1842000
+Patrick Patterson Toronto Raptors Kentucky PF,235,27,6268675
+Norman Powell Toronto Raptors UCLA SG,215,23,650000
+Terrence Ross Toronto Raptors Washington SF,195,25,3553917
+Luis Scola Toronto Raptors  PF,240,36,2900000
+Jason Thompson Toronto Raptors Rider PF,250,29,245177
+Jonas Valanciunas Toronto Raptors  C,255,24,4660482
+Delon Wright Toronto Raptors Utah PG,190,24,1509360
+Leandro Barbosa Golden State Warriors  SG,194,33,2500000
+Harrison Barnes Golden State Warriors North Carolina SF,225,24,3873398
+Andrew Bogut Golden State Warriors Utah C,260,31,13800000
+Ian Clark Golden State Warriors Belmont SG,175,25,947276
+Stephen Curry Golden State Warriors Davidson PG,190,28,11370786
+Festus Ezeli Golden State Warriors Vanderbilt C,265,26,2008748
+Draymond Green Golden State Warriors Michigan State PF,230,26,14260870
+Andre Iguodala Golden State Warriors Arizona SF,215,32,11710456
+Shaun Livingston Golden State Warriors  PG,192,30,5543725
+Kevon Looney Golden State Warriors UCLA SF,220,20,1131960
+James Michael McAdoo Golden State Warriors North Carolina SF,240,23,845059
+Brandon Rush Golden State Warriors Kansas SF,220,30,1270964
+Marreese Speights Golden State Warriors Florida C,255,28,3815000
+Klay Thompson Golden State Warriors Washington State SG,215,26,15501000
+Anderson Varejao Golden State Warriors  PF,273,33,289755
+Cole Aldrich Los Angeles Clippers Kansas C,250,27,1100602
+Jeff Ayres Los Angeles Clippers Arizona State PF,250,29,111444
+Jamal Crawford Los Angeles Clippers Michigan SG,195,36,5675000
+Branden Dawson Los Angeles Clippers Michigan State SF,225,23,525093
+Jeff Green Los Angeles Clippers Georgetown SF,235,29,9650000
+Blake Griffin Los Angeles Clippers Oklahoma PF,251,27,18907726
+Wesley Johnson Los Angeles Clippers Syracuse SF,215,28,1100602
+DeAndre Jordan Los Angeles Clippers Texas A&M C,265,27,19689000
+Luc Richard Mbah a Moute Los Angeles Clippers UCLA PF,230,29,947276
+Chris Paul Los Angeles Clippers Wake Forest PG,175,31,21468695
+Paul Pierce Los Angeles Clippers Kansas SF,235,38,3376000
+Pablo Prigioni Los Angeles Clippers  PG,185,39,947726
+JJ Redick Los Angeles Clippers Duke SG,190,31,7085000
+Austin Rivers Los Angeles Clippers Duke PG,200,23,3110796
+C.J. Wilcox Los Angeles Clippers Washington SG,195,25,1159680
+Brandon Bass Los Angeles Lakers LSU PF,250,31,3000000
+Tarik Black Los Angeles Lakers Kansas C,250,24,845059
+Anthony Brown Los Angeles Lakers Stanford SF,210,23,700000
+Kobe Bryant Los Angeles Lakers  SF,212,37,25000000
+Jordan Clarkson Los Angeles Lakers Missouri PG,194,24,845059
+Roy Hibbert Los Angeles Lakers Georgetown C,270,29,15592217
+Marcelo Huertas Los Angeles Lakers  PG,200,33,525093
+Ryan Kelly Los Angeles Lakers Duke PF,230,25,1724250
+Larry Nance Jr. Los Angeles Lakers Wyoming PF,230,23,1155600
+Julius Randle Los Angeles Lakers Kentucky PF,250,21,3132240
+D'Angelo Russell Los Angeles Lakers Ohio State PG,195,20,5103120
+Robert Sacre Los Angeles Lakers Gonzaga C,270,27,981348
+Louis Williams Los Angeles Lakers  SG,175,29,7000000
+Metta World Peace Los Angeles Lakers St. John's SF,260,36,947276
+Nick Young Los Angeles Lakers USC SF,210,31,5219169
+Eric Bledsoe Phoenix Suns Kentucky PG,190,26,13500000
+Devin Booker Phoenix Suns Kentucky SG,206,19,2127840
+Chase Budinger Phoenix Suns Arizona SF,209,28,206192
+Tyson Chandler Phoenix Suns  C,240,33,13000000
+Archie Goodwin Phoenix Suns Kentucky SG,200,21,1160160
+John Jenkins Phoenix Suns Vanderbilt SG,215,25,981348
+Brandon Knight Phoenix Suns Kentucky PG,189,24,13500000
+Alex Len Phoenix Suns Maryland C,260,22,3807120
+Jon Leuer Phoenix Suns Wisconsin PF,228,27,1035000
+Phil Pressey Phoenix Suns Missouri PG,175,25,55722
+Ronnie Price Phoenix Suns Utah Valley PG,190,32,947276
+Mirza Teletovic Phoenix Suns  PF,242,30,5500000
+P.J. Tucker Phoenix Suns Texas SF,245,31,5500000
+T.J. Warren Phoenix Suns North Carolina State SF,230,22,2041080
+Alan Williams Phoenix Suns UC Santa Barbara C,260,23,83397
+Quincy Acy Sacramento Kings Baylor SF,240,25,981348
+James Anderson Sacramento Kings Oklahoma State SG,213,27,1015421
+Marco Belinelli Sacramento Kings  SG,210,30,6060606
+Caron Butler Sacramento Kings Connecticut SF,228,36,1449187
+Omri Casspi Sacramento Kings  SF,225,27,2836186
+Willie Cauley-Stein Sacramento Kings Kentucky C,240,22,3398280
+Darren Collison Sacramento Kings UCLA PG,175,28,5013559
+DeMarcus Cousins Sacramento Kings Kentucky C,270,25,15851950
+Seth Curry Sacramento Kings Duke SG,185,25,947276
+Duje Dukan Sacramento Kings Wisconsin PF,220,24,525093
+Rudy Gay Sacramento Kings Connecticut SF,230,29,12403101
+Kosta Koufos Sacramento Kings Ohio State C,265,27,7700000
+Ben McLemore Sacramento Kings Kansas SG,195,23,3156600
+Eric Moreland Sacramento Kings Oregon State PF,238,24,845059
+Rajon Rondo Sacramento Kings Kentucky PG,186,30,9500000
+Cameron Bairstow Chicago Bulls New Mexico PF,250,25,845059
+Aaron Brooks Chicago Bulls Oregon PG,161,31,2250000
+Jimmy Butler Chicago Bulls Marquette SG,220,26,16407500
+Mike Dunleavy Chicago Bulls Duke SG,230,35,4500000
+Cristiano Felicio Chicago Bulls  PF,275,23,525093
+Pau Gasol Chicago Bulls  C,250,35,7448760
+Taj Gibson Chicago Bulls USC PF,225,30,8500000
+Justin Holiday Chicago Bulls Washington SG,185,27,947276
+Doug McDermott Chicago Bulls Creighton SF,225,24,2380440
+Nikola Mirotic Chicago Bulls  PF,220,25,5543725
+E'Twaun Moore Chicago Bulls Purdue SG,191,27,1015421
+Joakim Noah Chicago Bulls Florida C,232,31,13400000
+Bobby Portis Chicago Bulls Arkansas PF,230,21,1391160
+Derrick Rose Chicago Bulls Memphis PG,190,27,20093064
+Tony Snell Chicago Bulls New Mexico SF,200,24,1535880
+Matthew Dellavedova Cleveland Cavaliers Saint Mary's PG,198,25,1147276
+Channing Frye Cleveland Cavaliers Arizona PF,255,33,8193029
+Kyrie Irving Cleveland Cavaliers Duke PG,193,24,16407501
+LeBron James Cleveland Cavaliers  SF,250,31,22970500
+Richard Jefferson Cleveland Cavaliers Arizona SF,233,35,947276
+Dahntay Jones Cleveland Cavaliers Duke SG,225,35,
+James Jones Cleveland Cavaliers Miami (FL) SG,218,35,947276
+Sasha Kaun Cleveland Cavaliers Kansas C,260,31,1276000
+Kevin Love Cleveland Cavaliers UCLA PF,251,27,19689000
+Jordan McRae Cleveland Cavaliers Tennessee SG,179,25,111196
+Timofey Mozgov Cleveland Cavaliers  C,275,29,4950000
+Iman Shumpert Cleveland Cavaliers Georgia Tech SG,220,25,8988765
+J.R. Smith Cleveland Cavaliers  SG,225,30,5000000
+Tristan Thompson Cleveland Cavaliers Texas C,238,25,14260870
+Mo Williams Cleveland Cavaliers Alabama PG,198,33,2100000
+Joel Anthony Detroit Pistons UNLV C,245,33,2500000
+Aron Baynes Detroit Pistons Washington State C,260,29,6500000
+Steve Blake Detroit Pistons Maryland PG,172,36,2170465
+Lorenzo Brown Detroit Pistons North Carolina State PG,189,25,111444
+Reggie Bullock Detroit Pistons North Carolina SF,205,25,1252440
+Kentavious Caldwell-Pope Detroit Pistons Georgia SG,205,23,2891760
+Spencer Dinwiddie Detroit Pistons Colorado PG,200,23,845059
+Andre Drummond Detroit Pistons Connecticut C,279,22,3272091
+Tobias Harris Detroit Pistons Tennessee SF,235,23,16000000
+Darrun Hilliard Detroit Pistons Villanova SF,205,23,600000
+Reggie Jackson Detroit Pistons Boston College PG,208,26,13913044
+Stanley Johnson Detroit Pistons Arizona SF,245,20,2841960
+Jodie Meeks Detroit Pistons Kentucky SG,210,28,6270000
+Marcus Morris Detroit Pistons Kansas PF,235,26,5000000
+Anthony Tolliver Detroit Pistons Creighton PF,240,31,3000000
+Lavoy Allen Indiana Pacers Temple PF,255,27,4050000
+Rakeem Christmas Indiana Pacers Syracuse PF,250,24,1007026
+Monta Ellis Indiana Pacers  SG,185,30,10300000
+Paul George Indiana Pacers Fresno State SF,220,26,17120106
+George Hill Indiana Pacers IUPUI PG,188,30,8000000
+Jordan Hill Indiana Pacers Arizona C,235,28,4000000
+Solomon Hill Indiana Pacers Arizona SF,225,25,1358880
+Ty Lawson Indiana Pacers North Carolina PG,195,28,211744
+Ian Mahinmi Indiana Pacers  C,250,29,4000000
+C.J. Miles Indiana Pacers  SF,231,29,4394225
+Glenn Robinson III Indiana Pacers Michigan SG,222,22,1100000
+Rodney Stuckey Indiana Pacers Eastern Washington PG,205,30,7000000
+Myles Turner Indiana Pacers Texas PF,243,20,2357760
+Shayne Whittington Indiana Pacers Western Michigan PF,250,25,845059
+Joe Young Indiana Pacers Oregon PG,180,23,1007026
+Giannis Antetokounmpo Milwaukee Bucks  SF,222,21,1953960
+Jerryd Bayless Milwaukee Bucks Arizona PG,200,27,3000000
+Michael Carter-Williams Milwaukee Bucks Syracuse PG,190,24,2399040
+Jared Cunningham Milwaukee Bucks Oregon State SG,195,25,947276
+Tyler Ennis Milwaukee Bucks Syracuse PG,194,21,1662360
+John Henson Milwaukee Bucks North Carolina PF,229,25,2943221
+Damien Inglis Milwaukee Bucks  SF,246,21,855000
+O.J. Mayo Milwaukee Bucks USC SG,210,28,8000000
+Khris Middleton Milwaukee Bucks Texas A&M SG,234,24,14700000
+Greg Monroe Milwaukee Bucks Georgetown C,265,26,16407500
+Steve Novak Milwaukee Bucks Marquette SF,225,32,295327
+Johnny O'Bryant III Milwaukee Bucks LSU PF,257,23,845059
+Jabari Parker Milwaukee Bucks Duke PF,250,21,5152440
+Miles Plumlee Milwaukee Bucks Duke C,249,27,2109294
+Greivis Vasquez Milwaukee Bucks Maryland PG,217,29,6600000
+Rashad Vaughn Milwaukee Bucks UNLV SG,202,19,1733040
+Justin Anderson Dallas Mavericks Virginia SG,228,22,1449000
+J.J. Barea Dallas Mavericks Northeastern PG,185,31,4290000
+Jeremy Evans Dallas Mavericks Western Kentucky SF,200,28,1100602
+Raymond Felton Dallas Mavericks North Carolina PG,205,31,3950313
+Devin Harris Dallas Mavericks Wisconsin PG,185,33,4053446
+David Lee Dallas Mavericks Florida PF,245,33,2085671
+Wesley Matthews Dallas Mavericks Marquette SG,220,29,16407500
+JaVale McGee Dallas Mavericks Nevada C,270,28,1270964
+Salah Mejri Dallas Mavericks  C,245,29,525093
+Dirk Nowitzki Dallas Mavericks  PF,245,37,8333334
+Zaza Pachulia Dallas Mavericks  C,275,32,5200000
+Chandler Parsons Dallas Mavericks Florida SF,230,27,15361500
+Dwight Powell Dallas Mavericks Stanford PF,240,24,845059
+Charlie Villanueva Dallas Mavericks Connecticut PF,232,31,947276
+Deron Williams Dallas Mavericks Illinois PG,200,31,5378974
+Trevor Ariza Houston Rockets UCLA SF,215,30,8193030
+Michael Beasley Houston Rockets Kansas State SF,235,27,306527
+Patrick Beverley Houston Rockets Arkansas PG,185,27,6486486
+Corey Brewer Houston Rockets Florida SG,186,30,8229375
+Clint Capela Houston Rockets  PF,240,22,1242720
+Sam Dekker Houston Rockets Wisconsin SF,230,22,1646400
+Andrew Goudelock Houston Rockets Charleston PG,200,27,200600
+James Harden Houston Rockets Arizona State SG,220,26,15756438
+Montrezl Harrell Houston Rockets Louisville PF,240,22,1000000
+Dwight Howard Houston Rockets  C,265,30,22359364
+Terrence Jones Houston Rockets Kentucky PF,252,24,2489530
+K.J. McDaniels Houston Rockets Clemson SG,205,23,3189794
+Donatas Motiejunas Houston Rockets  PF,222,25,2288205
+Josh Smith Houston Rockets  C,225,30,947276
+Jason Terry Houston Rockets Arizona SG,185,38,947276
+Jordan Adams Memphis Grizzlies UCLA SG,209,21,1404600
+Tony Allen Memphis Grizzlies Oklahoma State SG,213,34,5158539
+Chris Andersen Memphis Grizzlies Blinn College PF,245,37,5000000
+Matt Barnes Memphis Grizzlies UCLA SF,226,36,3542500
+Vince Carter Memphis Grizzlies North Carolina SG,220,39,4088019
+Mike Conley Memphis Grizzlies Ohio State PG,175,28,9588426
+Bryce Cotton Memphis Grizzlies Providence PG,165,23,700902
+Jordan Farmar Memphis Grizzlies UCLA PG,180,29,
+Marc Gasol Memphis Grizzlies  C,255,31,19688000
+JaMychal Green Memphis Grizzlies Alabama PF,227,25,845059
+P.J. Hairston Memphis Grizzlies North Carolina SF,230,23,1201440
+Jarell Martin Memphis Grizzlies LSU PF,239,22,1230840
+Ray McCallum Memphis Grizzlies Detroit PG,190,24,
+Xavier Munford Memphis Grizzlies Rhode Island PG,180,24,
+Zach Randolph Memphis Grizzlies Michigan State PF,260,34,9638555
+Lance Stephenson Memphis Grizzlies Cincinnati SF,230,25,9000000
+Alex Stepheson Memphis Grizzlies USC PF,270,28,
+Brandan Wright Memphis Grizzlies North Carolina PF,210,28,5464000
+Alexis Ajinca New Orleans Pelicans  C,248,28,4389607
+Ryan Anderson New Orleans Pelicans California PF,240,28,8500000
+Omer Asik New Orleans Pelicans  C,255,29,9213483
+Luke Babbitt New Orleans Pelicans Nevada SF,225,26,1100602
+Norris Cole New Orleans Pelicans Cleveland State PG,175,27,3036927
+Dante Cunningham New Orleans Pelicans Villanova PF,230,29,2850000
+Anthony Davis New Orleans Pelicans Kentucky PF,253,23,7070730
+Bryce Dejean-Jones New Orleans Pelicans Iowa State SG,203,23,169883
+Toney Douglas New Orleans Pelicans Florida State PG,195,30,1164858
+James Ennis New Orleans Pelicans Long Beach State SF,210,25,845059
+Tyreke Evans New Orleans Pelicans Memphis SG,220,26,10734586
+Tim Frazier New Orleans Pelicans Penn State PG,170,25,845059
+Alonzo Gee New Orleans Pelicans Alabama SF,225,29,1320000
+Eric Gordon New Orleans Pelicans Indiana SG,215,27,15514031
+Jordan Hamilton New Orleans Pelicans Texas SG,220,25,1015421
+Jrue Holiday New Orleans Pelicans UCLA PG,205,25,10595507
+Orlando Johnson New Orleans Pelicans UC Santa Barbara SG,220,27,55722
+Kendrick Perkins New Orleans Pelicans  C,270,31,947276
+Quincy Pondexter New Orleans Pelicans Washington SF,220,28,3382023
+LaMarcus Aldridge San Antonio Spurs Texas PF,240,30,19689000
+Kyle Anderson San Antonio Spurs UCLA SF,230,22,1142880
+Matt Bonner San Antonio Spurs Florida C,235,36,947276
+Boris Diaw San Antonio Spurs  C,250,34,7500000
+Tim Duncan San Antonio Spurs Wake Forest C,250,40,5250000
+Manu Ginobili San Antonio Spurs  SG,205,38,2814000
+Danny Green San Antonio Spurs North Carolina SG,215,28,10000000
+Kawhi Leonard San Antonio Spurs San Diego State SF,230,24,16407500
+Boban Marjanovic San Antonio Spurs  C,290,27,1200000
+Kevin Martin San Antonio Spurs Western Carolina SG,199,33,200600
+Andre Miller San Antonio Spurs Utah PG,200,40,250750
+Patty Mills San Antonio Spurs Saint Mary's PG,185,27,3578947
+Tony Parker San Antonio Spurs  PG,185,34,13437500
+Jonathon Simmons San Antonio Spurs Houston SG,195,26,525093
+David West San Antonio Spurs Xavier PF,250,35,1499187
+Kent Bazemore Atlanta Hawks Old Dominion SF,201,26,2000000
+Tim Hardaway Jr. Atlanta Hawks Michigan SG,205,24,1304520
+Kirk Hinrich Atlanta Hawks Kansas SG,190,35,2854940
+Al Horford Atlanta Hawks Florida C,245,30,12000000
+Kris Humphries Atlanta Hawks Minnesota PF,235,31,1000000
+Kyle Korver Atlanta Hawks Creighton SG,212,35,5746479
+Paul Millsap Atlanta Hawks Louisiana Tech PF,246,31,18671659
+Mike Muscala Atlanta Hawks Bucknell PF,240,24,947276
+Lamar Patterson Atlanta Hawks Pittsburgh SG,225,24,525093
+Dennis Schroder Atlanta Hawks  PG,172,22,1763400
+Mike Scott Atlanta Hawks Virginia PF,237,27,3333333
+Thabo Sefolosha Atlanta Hawks  SF,220,32,4000000
+Tiago Splitter Atlanta Hawks  C,245,31,9756250
+Walter Tavares Atlanta Hawks  C,260,24,1000000
+Jeff Teague Atlanta Hawks Wake Forest PG,186,27,8000000
+Nicolas Batum Charlotte Hornets  SG,200,27,13125306
+Troy Daniels Charlotte Hornets Virginia Commonwealth SG,205,24,947276
+Jorge Gutierrez Charlotte Hornets California PG,189,27,189455
+Tyler Hansbrough Charlotte Hornets North Carolina PF,250,30,947276
+Aaron Harrison Charlotte Hornets Kentucky SG,210,21,525093
+Spencer Hawes Charlotte Hornets Washington PF,245,28,6110034
+Al Jefferson Charlotte Hornets  C,289,31,13500000
+Frank Kaminsky III Charlotte Hornets Wisconsin C,240,23,2612520
+Michael Kidd-Gilchrist Charlotte Hornets Kentucky SF,232,22,6331404
+Jeremy Lamb Charlotte Hornets Connecticut SG,185,24,3034356
+Courtney Lee Charlotte Hornets Western Kentucky SG,200,30,5675000
+Jeremy Lin Charlotte Hornets Harvard PG,200,27,2139000
+Kemba Walker Charlotte Hornets Connecticut PG,184,26,12000000
+Marvin Williams Charlotte Hornets North Carolina PF,237,29,7000000
+Cody Zeller Charlotte Hornets Indiana C,240,23,4204200
+Chris Bosh Miami Heat Georgia Tech PF,235,32,22192730
+Luol Deng Miami Heat Duke SF,220,31,10151612
+Goran Dragic Miami Heat  PG,190,30,14783000
+Gerald Green Miami Heat  SF,205,30,947276
+Udonis Haslem Miami Heat Florida PF,235,36,2854940
+Joe Johnson Miami Heat Arkansas SF,240,34,261894
+Tyler Johnson Miami Heat Fresno State SG,186,24,845059
+Josh McRoberts Miami Heat Duke PF,240,29,5543725
+Josh Richardson Miami Heat Tennessee SG,200,22,525093
+Amar'e Stoudemire Miami Heat  PF,245,33,947276
+Dwyane Wade Miami Heat Marquette SG,220,34,20000000
+Briante Weber Miami Heat Virginia Commonwealth PG,165,23,
+Hassan Whiteside Miami Heat Marshall C,265,26,981348
+Justise Winslow Miami Heat Duke SF,225,20,2481720
+Dorell Wright Miami Heat  SF,205,30,
+Dewayne Dedmon Orlando Magic USC C,245,26,947276
+Evan Fournier Orlando Magic  SG,205,23,2288205
+Aaron Gordon Orlando Magic Arizona PF,220,20,4171680
+Mario Hezonja Orlando Magic  SG,218,21,3741480
+Ersan Ilyasova Orlando Magic  PF,235,29,7900000
+Brandon Jennings Orlando Magic  PG,169,26,8344497
+Devyn Marble Orlando Magic Iowa SF,200,23,845059
+Shabazz Napier Orlando Magic Connecticut PG,175,24,1294440
+Andrew Nicholson Orlando Magic St. Bonaventure PF,250,26,2380593
+Victor Oladipo Orlando Magic Indiana SG,210,24,5192520
+Elfrid Payton Orlando Magic Louisiana-Lafayette PG,185,22,2505720
+Jason Smith Orlando Magic Colorado State PF,240,30,4300000
+Nikola Vucevic Orlando Magic USC C,260,25,11250000
+C.J. Watson Orlando Magic Tennessee PG,175,32,5000000
+Alan Anderson Washington Wizards Michigan State SG,220,33,4000000
+Bradley Beal Washington Wizards Florida SG,207,22,5694674
+Jared Dudley Washington Wizards Boston College SF,225,30,4375000
+Jarell Eddie Washington Wizards Virginia Tech SG,218,24,561716
+Drew Gooden Washington Wizards Kansas PF,250,34,3300000
+Marcin Gortat Washington Wizards  C,240,32,11217391
+JJ Hickson Washington Wizards North Carolina State C,242,27,273038
+Nene Hilario Washington Wizards  C,250,33,13000000
+Markieff Morris Washington Wizards Kansas PF,245,26,8000000
+Kelly Oubre Jr. Washington Wizards Kansas SF,205,20,1920240
+Otto Porter Jr. Washington Wizards Georgetown SF,198,23,4662960
+Ramon Sessions Washington Wizards Nevada PG,190,30,2170465
+Garrett Temple Washington Wizards LSU SG,195,30,1100602
+Marcus Thornton Washington Wizards LSU SF,205,29,200600
+John Wall Washington Wizards Kentucky PG,195,25,15851950
+Darrell Arthur Denver Nuggets Kansas PF,235,28,2814000
+D.J. Augustin Denver Nuggets Texas PG,183,28,3000000
+Will Barton Denver Nuggets Memphis SF,175,25,3533333
+Wilson Chandler Denver Nuggets DePaul SF,225,29,10449438
+Kenneth Faried Denver Nuggets Morehead State PF,228,26,11235955
+Danilo Gallinari Denver Nuggets  SF,225,27,14000000
+Gary Harris Denver Nuggets Michigan State SG,210,21,1584480
+Nikola Jokic Denver Nuggets  C,250,21,1300000
+Joffrey Lauvergne Denver Nuggets  C,220,24,1709719
+Mike Miller Denver Nuggets Florida SG,218,36,947276
+Emmanuel Mudiay Denver Nuggets  PG,200,20,3102240
+Jameer Nelson Denver Nuggets Saint Joseph's PG,190,34,4345000
+Jusuf Nurkic Denver Nuggets  C,280,21,1842000
+JaKarr Sampson Denver Nuggets St. John's SG,214,23,258489
+Axel Toupane Denver Nuggets  SG,210,23,
+Nemanja Bjelica Minnesota Timberwolves  PF,240,28,3950001
+Gorgui Dieng Minnesota Timberwolves Louisville C,241,26,1474440
+Kevin Garnett Minnesota Timberwolves  PF,240,40,8500000
+Tyus Jones Minnesota Timberwolves Duke PG,195,20,1282080
+Zach LaVine Minnesota Timberwolves UCLA PG,189,21,2148360
+Shabazz Muhammad Minnesota Timberwolves UCLA SF,223,23,2056920
+Adreian Payne Minnesota Timberwolves Michigan State PF,237,25,1938840
+Nikola Pekovic Minnesota Timberwolves  C,307,30,12100000
+Tayshaun Prince Minnesota Timberwolves Kentucky SF,212,36,947276
+Ricky Rubio Minnesota Timberwolves  PG,194,25,12700000
+Damjan Rudez Minnesota Timberwolves  SF,230,29,1149500
+Greg Smith Minnesota Timberwolves Fresno State PF,250,25,
+Karl-Anthony Towns Minnesota Timberwolves Kentucky C,244,20,5703600
+Andrew Wiggins Minnesota Timberwolves Kansas SG,199,21,5758680
+Steven Adams Oklahoma City Thunder Pittsburgh C,255,22,2279040
+Nick Collison Oklahoma City Thunder Kansas PF,255,35,3750000
+Kevin Durant Oklahoma City Thunder Texas SF,240,27,20158622
+Randy Foye Oklahoma City Thunder Villanova SG,213,32,3135000
+Josh Huestis Oklahoma City Thunder Stanford SF,230,24,1140240
+Serge Ibaka Oklahoma City Thunder  PF,245,26,12250000
+Enes Kanter Oklahoma City Thunder Kentucky C,245,24,16407500
+Mitch McGary Oklahoma City Thunder Michigan PF,255,24,1463040
+Nazr Mohammed Oklahoma City Thunder Kentucky C,250,38,222888
+Anthony Morrow Oklahoma City Thunder Georgia Tech SG,210,30,3344000
+Cameron Payne Oklahoma City Thunder Murray State PG,185,21,2021520
+Andre Roberson Oklahoma City Thunder Colorado SG,210,24,1210800
+Kyle Singler Oklahoma City Thunder Duke SF,228,28,4500000
+Dion Waiters Oklahoma City Thunder Syracuse SG,220,24,5138430
+Russell Westbrook Oklahoma City Thunder UCLA PG,200,27,16744218
+Cliff Alexander Portland Trail Blazers Kansas PF,240,20,525093
+Al-Farouq Aminu Portland Trail Blazers Wake Forest SF,215,25,8042895
+Pat Connaughton Portland Trail Blazers Notre Dame SG,206,23,625093
+Allen Crabbe Portland Trail Blazers California SG,210,24,947276
+Ed Davis Portland Trail Blazers North Carolina C,240,27,6980802
+Maurice Harkless Portland Trail Blazers St. John's SF,215,23,2894059
+Gerald Henderson Portland Trail Blazers Duke SG,215,28,6000000
+Chris Kaman Portland Trail Blazers Central Michigan C,265,34,5016000
+Meyers Leonard Portland Trail Blazers Illinois PF,245,24,3075880
+Damian Lillard Portland Trail Blazers Weber State PG,195,25,4236287
+C.J. McCollum Portland Trail Blazers Lehigh SG,200,24,2525160
+Luis Montero Portland Trail Blazers Westchester CC SG,185,23,525093
+Mason Plumlee Portland Trail Blazers Duke C,235,26,1415520
+Brian Roberts Portland Trail Blazers Dayton PG,173,30,2854940
+Noah Vonleh Portland Trail Blazers Indiana PF,240,20,2637720
+Trevor Booker Utah Jazz Clemson PF,228,28,4775000
+Trey Burke Utah Jazz Michigan PG,191,23,2658240
+Alec Burks Utah Jazz Colorado SG,214,24,9463484
+Dante Exum Utah Jazz  PG,190,20,3777720
+Derrick Favors Utah Jazz Georgia Tech PF,265,24,12000000
+Rudy Gobert Utah Jazz  C,245,23,1175880
+Gordon Hayward Utah Jazz Butler SF,226,26,15409570
+Rodney Hood Utah Jazz Duke SG,206,23,1348440
+Joe Ingles Utah Jazz  SF,226,28,2050000
+Chris Johnson Utah Jazz Dayton SF,206,26,981348
+Trey Lyles Utah Jazz Kentucky PF,234,20,2239800
+Shelvin Mack Utah Jazz Butler PG,203,26,2433333
+Raul Neto Utah Jazz  PG,179,24,900000
+Tibor Pleiss Utah Jazz  C,256,26,2900000
+Jeff Withey Utah Jazz Kansas C,231,26,947276
